@@ -12,14 +12,7 @@
                     <div class="subscribe-wrap">
                         <div class="subscribe-box clearfix">
                             <div class="subscribe-form-wrap">
-                                <form action="#" class="subscribe-form">
-                                    <input type="email" name="email" id="subs-email" class="form-input" placeholder="Enter Your Email Address...">
-                                    <button type="submit" class="submit-btn anim-btn">Get started<span></span></button>
-                                    <div id="subscribe-result">
-                                        <p class="subscription-success"></p>
-                                        <p class="subscription-error"></p>
-                                    </div>
-                                </form>
+                                <button type="button" data-toggle="modal" data-target="#getstarted" class="submit-btn anim-btn">Get started<span></span></button>
                             </div>
                         </div>
                     </div>
@@ -37,10 +30,10 @@
        </div>
         <div id="sponsor-carousel" class="sponsor-carousel owl-carousel">
             <div class="sponsor-item">
-                <img src="img/tools/laravel.png" alt="sponsor" style="object-fit: fill; width: 70px; height: 65px border: solid 1px">
+                <img src="img/tools/laravel.png" alt="sponsor" style="object-fit: fill; width: 70px; height: 65px border: solid ">
             </div>
             <div class="sponsor-item">
-                <img src="img/tools/django.png" alt="sponsor" style="object-fit: fill; width: 65px; height: 65px border: solid 1px">
+                <img src="img/tools/django.png" alt="sponsor" style="object-fit: fill; width: 65px; height: 65px border: solid ">
             </div>
             <div class="sponsor-item">
                 <img src="img/tools/firebase.png" alt="sponsor" style="object-fit: fill; width: 65px; height: 65px border: solid 1px">
@@ -147,7 +140,7 @@
                         <li><i class="fa fa-dot-circle"></i>Leads management.</li>
                         <li><i class="fa fa-dot-circle"></i>Return on investment analysis.</li>
                      </ul>
-                     <a class="default-btn green" href="#">Get Started<span></span></a>
+                     <button type="button" class="default-btn green" data-toggle="modal" data-target="#getstarted">Get Started<span></span></button>
                  </div>
              </div>
              <div class="col-lg-6 col-md-6 xs-padding">
@@ -193,9 +186,9 @@
         <div class="cta-wrap">
             <div class="cta-content text-center">
                 <h2>Getting Connected With Us &amp; <br>For The First time? </h2>
-                <p>Submit your email today, an agent will be assigned you so that he can attend to your projects needs. We are looking forward to hearing from you.</p>
+                <p style="color: #333;">Submit your email today, an agent will be assigned you so that he can attend to your projects needs. We are looking forward to hearing from you.</p>
                 <div class="btn-group">
-                    <a class="default-btn green" href="#">Get Started<span></span></a>
+                    <button type="button" class="default-btn green" data-toggle="modal" data-target="#getstarted">Get Started<span></span></button>
                 </div>
             </div>
         </div>
