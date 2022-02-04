@@ -4,23 +4,20 @@
             <div class="col-md-3 col-sm-6 xs-padding">
                 <div class="widget-content">
                     <h3>About Us</h3>
-                    <ul class="widget-list">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li><a href="#">Testimonials</a></li>
-                        <li><a href="#">Jobs</a></li>
-                    </ul>
+                    <div class="section-heading mb-40">
+                        <p style="color: grey">We provide software development & consultation services to startups, small & medium businesses who are looking for a team to build their next successful startup.</p>
+                    </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 xs-padding">
                 <div class="widget-content">
                     <h3>The Products</h3>
                     <ul class="widget-list">
-                        <li><a href="#">Software Development</a></li>
-                        <li><a data-scroll href="#">Software Architecture</a></li>
-                        <li><a href="#">Support</a></li>
-                        <li><a href="#">Digital Marketing</a></li>
-                        <li><a href="#">Content Creating</a></li>
+                        <li><a href="/#services">Software Development</a></li>
+                        <li><a href="/#services">UX/UI Design</a></li>
+                        <li><a href="/#services">Support & Maintenance</a></li>
+                        <li><a href="/#services">Digital Marketing</a></li>
+                        <li><a href="/#services">Business Integrations</a></li>
                     </ul>
                 </div>
             </div>
@@ -28,21 +25,24 @@
                 <div class="widget-content">
                     <h3>Resources</h3>
                     <ul class="widget-list">
-                        <li><a href="#">Documenation</a></li>
-                        <li><a href="#">Video tutorials</a></li>
-                        <li><a href="#">Download</a></li>
-                        <li><a href="#">Faqs</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Knowledge Base</a></li>
+                        <li><a href="#">Press & Media</a></li>
+                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Get Started</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6 xs-padding">
                 <div class="widget-content">
-                    <h3>Information</h3>
+                    <h3>Quick Links</h3>
                     <ul class="widget-list">
-                        <li><a href="#">Terms of services</a></li>
+                        <li><a href="{{route('home')}}">Home</a></li>
+                        <li><a href="{{route('about')}}">About Us</a></li>
+                        <li><a href="{{route('contact')}}">Contact Us</a></li>
+                        <li><a href="/#services">Services</a></li>
+                        <li><a href="#">Terms</a></li>
                         <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Account Setting</a></li>
-                        <li><a href="#">Help Other</a></li>
                     </ul>
                 </div>
             </div>

@@ -18,13 +18,32 @@
                 </div>
                 <div class="col-lg-6 sm-padding">
                     <div class="contact-form">
-                        <form action="contact.php" method="post" id="ajax_form" class="form-horizontal">
+                        @if (\Session::has('success'))
+                            <div class="alert alert-success">
+                                <ul>
+                                    <li>{!! \Session::get('success') !!}</li>
+                                </ul>
+                            </div>
+                        @elseif(\Session::has('error'))
+                            <div class="alert alert-danger">
+                                <ul>
+                                    <li>{!! \Session::get('error') !!}</li>
+                                </ul>
+                            </div>
+                        @endif
+                        <form action="{{ route('send') }}" method="POST" class="form-horizontal">
+                            @csrf
                             <div class="form-group colum-row row">
                                 <div class="col-sm-6">
                                     <input type="text" id="name" name="name" class="form-control" placeholder="Name" required>
                                 </div>
                                 <div class="col-sm-6">
                                     <input type="email" id="email" name="email" class="form-control" placeholder="Email" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <div class="col-sm-12">
+                                    <input type="text" id="subject" name="subject" class="form-control" placeholder="Subject" required>
                                 </div>
                             </div>
                             <div class="form-group row">

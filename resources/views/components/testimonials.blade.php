@@ -12,7 +12,7 @@
                 </div>
                 <div class="author-details">
                    <div class="author-info">
-                       <h3>Fiorella Ibáñez<span>Designer</span></h3>
+                       <h3>James Kaigai<span>Jovenhub</span></h3>
                    </div>
                     <ul class="rating">
                         <li><i class="fa fa-star"></i></li>
@@ -22,7 +22,7 @@
                         <li><i class="fa fa-star"></i></li>
                     </ul>
                 </div>
-                <p>We provide marketing services startups and small businesses to looking for a partner of their digital media, design development lead generation.</p>
+                <p>Techara team is professional on what they do, we required a support team when we were deploying one of our services. They never dissapointed us.</p>
             </div>
             <div class="testimonial-item">
                 <div class="testi-thumb">
@@ -30,7 +30,7 @@
                 </div>
                 <div class="author-details">
                    <div class="author-info">
-                       <h3>Eldie Goldey<span>Developer</span></h3>
+                       <h3>Andrew<span>Dreamers Club Africa</span></h3>
                    </div>
                     <ul class="rating">
                         <li><i class="fa fa-star"></i></li>
@@ -40,7 +40,7 @@
                         <li><i class="fa fa-star"></i></li>
                     </ul>
                 </div>
-                <p>We provide marketing services startups and small businesses to looking for a partner of their digital media, design development lead generation.</p>
+                <p>This is the first ever development team to ever keep their words on delivering a project on time. I would vouch for them anyday.</p>
             </div>
             <div class="testimonial-item">
                 <div class="testi-thumb">
@@ -48,7 +48,7 @@
                 </div>
                 <div class="author-details">
                    <div class="author-info">
-                       <h3>Kyle Frederick<span>Marketer</span></h3>
+                       <h3>Joyce Makena<span>Digital Team Group</span></h3>
                    </div>
                     <ul class="rating">
                         <li><i class="fa fa-star"></i></li>
@@ -58,9 +58,9 @@
                         <li><i class="fa fa-star"></i></li>
                     </ul>
                 </div>
-                <p>We provide marketing services startups and small businesses to looking for a partner of their digital media, design development lead generation.</p>
+                <p>Their analytical tools saved us alot, our main challenge was hacking through customer closure and retention. Our number one analytical team so far.</p>
             </div>
-            <div class="testimonial-item">
+            {{-- <div class="testimonial-item">
                 <div class="testi-thumb">
                     <img src="img/testi-4.jpg" alt="img">
                 </div>
@@ -77,7 +77,7 @@
                     </ul>
                 </div>
                 <p>We provide marketing services startups and small businesses to looking for a partner of their digital media, design development lead generation.</p>
-            </div>
+            </div> --}}
         </div>
     </div>
 </section>

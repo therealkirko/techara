@@ -6,9 +6,9 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="hero-content">
-                    <h4><i class="fa fa-check"></i>#Editors Choice App Of 2020</h4>
-                    <h1>We Build Digital Product For Your Sstartup</h1>
-                    <p>We provide software development & consultation services to startups and small businesses who are looking for a team to build their next successful startup.</p>
+                    <h4><i class="fa fa-check"></i>#Quality & Greatness Guaranteed</h4>
+                    <h1>We Build Digital Product For Your Business</h1>
+                    <p>We provide software development & consultation services to startups, small &amp; medium businesses who are looking for a team to build their next successful startup.</p>
                     <div class="subscribe-wrap">
                         <div class="subscribe-box clearfix">
                             <div class="subscribe-form-wrap">
@@ -75,7 +75,7 @@
         </div>
     </div>
 </div>
-<section id="feature" class="features-section">
+<section id="services" class="service-section">
     <div class="container">
         <div class="section-heading mb-40 text-center">
            <h2>Exclusive Services</h2>
@@ -83,46 +83,54 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-sm-6 sm-padding">
+                <div class="features-item active item-2">
+                   <div class="features-pattern"></div>
+                    <i class="ti-settings color-green"></i>
+                    <h3>Software Development</h3>
+                    <p>We are experts in software development ranging from websites, custom web &amp; mobile apps, SaaS solutions. We turn ideas into solutions.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 sm-padding">
                 <div class="features-item item-2">
                    <div class="features-pattern"></div>
-                    <i class="ti-cloud-up color-green"></i>
-                    <h3>Cloud management</h3>
-                    <p>We help you manage your cloud infrastructure so that you can focus on what you do best.</p>
+                    <i class="ti-paint-roller color-green"></i>
+                    <h3>UX/UI Design</h3>
+                    <p>With our strong taste in design, we offer extensive services from graphic design, branding (car, office, etc)</p>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 sm-padding">
                 <div class="features-item active item-2">
                    <div class="features-pattern"></div>
-                    <i class="ti-settings color-green"></i>
-                    <h3>Software Development</h3>
-                    <p>With us, you never go wrong in terms of development. We are extensive in the latest and stable tech.</p>
+                    <i class="ti-vector color-green"></i>
+                    <h3>Software Refactor</h3>
+                    <p>This includes legacy code upgrade, bug fixing in existing software, optimazation &amp; any issue related to system malfunction.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 sm-padding">
                 <div class="features-item item-2">
                    <div class="features-pattern"></div>
-                    <i class="ti-layout-media-left-alt color-green"></i>
-                    <h3>Product Quality & Support</h3>
-                    <p>We ensure that you do not feel left out after the job is done, Our team will ensure that your business runs uninterapted.</p>
+                    <i class="ti-cloud-up color-green"></i>
+                    <h3>Cloud management</h3>
+                    <p>We help you setup &amp; manage your cloud infrastructure so that you can focus on what you do best. (aws, azure, digital ocean, linode, etc)</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 sm-padding">
+                <div class="features-item active item-2">
+                   <div class="features-pattern"></div>
+                    <i class="ti-layers-alt color-green"></i>
+                    <h3>Integrations</h3>
+                    <p>We will help you in integrating your business with any infrastructure of your choice including payment gateways to communication channels.</p>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6 sm-padding">
+                <div class="features-item item-2">
+                   <div class="features-pattern"></div>
+                    <i class="ti-announcement color-green"></i>
+                    <h3>Social Media Marketing</h3>
+                    <p>We will make sure that your app gets to the desired users through our deep understanding and integration with the social media.</p>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<section class="content-section content-3 pos-rel">
-    <div class="ov-shape-1 d-none d-lg-block"></div>
-    <div class="container pos-rel padding">
-        <div class="content-wrap row align-items-center">
-            <div class="col-md-6 offset-md-6">
-                <div class="content-info">
-                    <h2>The #1 Tool For Crerating <br>Stunning Marketing</h2>
-                    <p>We provide marketing services to startups and small businesses to looking for a partner of their digital media, design &amp; development, lead generation.</p>
-                    <p>Our marketing team will walk with you from understanding your customers to ensuring that you reach new grounds and grow your business or platform. We have previously worked with big and medium tech companies to achieve company's goal.</p>
-                    <a class="default-btn green" data-scroll href="#pricing">See Pricing<span></span></a>
-                </div>
-            </div>
-        </div>
-        <div class="dashboard-moc d-none d-md-block"></div>
     </div>
 </section>
 <section class="content-list-section pos-rel padding">
@@ -131,12 +139,13 @@
          <div class="content-list-wrap row align-items-center">
              <div class="col-lg-6 col-md-6 xs-padding">
                  <div class="content-item">
-                     <h2>Analytics tools <br>For Small and medium Business</h2>
-                     <p>It is clear that the moderm oil is data, we have tools for monitoring your website or platform to analysing your customer data to establish the connection.</p>
+                     <h2>Data analytics <br>For Small and medium Business</h2>
+                     <p>We have focused on ensuring that you understand your business in a broad view, from sales data to understanding your leads and how to close them efficiently.</p>
                      <ul class="content-list green mb-20">
-                         <li><i class="fa fa-dot-circle"></i>On Being Ethical</li>
-                         <li><i class="fa fa-dot-circle"></i>On knowing Your Audience</li>
-                         <li><i class="fa fa-dot-circle"></i>Communication &amp; Sharing</li>
+                        <li><i class="fa fa-dot-circle"></i>Customer traffic analysis.</li>
+                        <li><i class="fa fa-dot-circle"></i>Sales data analysis.</li>
+                        <li><i class="fa fa-dot-circle"></i>Leads management.</li>
+                        <li><i class="fa fa-dot-circle"></i>Return on investment analysis.</li>
                      </ul>
                      <a class="default-btn green" href="#">Get Started<span></span></a>
                  </div>
@@ -149,7 +158,7 @@
          </div>
      </div>
  </section>
-
+<br>
 <section class="counter-section">
     <div class="container">
        <div class="section-heading mb-40 text-center">
