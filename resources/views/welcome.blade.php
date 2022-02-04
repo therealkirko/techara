@@ -8,7 +8,7 @@
                 <div class="hero-content">
                     <h4><i class="fa fa-check"></i>#Quality & Greatness Guaranteed</h4>
                     <h1>We Build Digital Product For Your Business</h1>
-                    <p>We provide software development & consultation services to startups, small &amp; medium businesses who are looking for a team to build their next successful startup.</p>
+                    <p style="color: #333;">We provide software development & consultation services to startups, small &amp; medium businesses who are looking for a team to build their next successful startup.</p>
                     <div class="subscribe-wrap">
                         <div class="subscribe-box clearfix">
                             <div class="subscribe-form-wrap">
